@@ -1,0 +1,4 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.CodaPizza" parent="android:Theme.Material.NoActionBar" />
+</resources>
